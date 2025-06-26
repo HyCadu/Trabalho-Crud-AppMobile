@@ -22,7 +22,6 @@ class Jogo {
     this.incorrectAnswers,
     this.questionsIds,
   });
-  
 
   factory Jogo.fromJson(Map<String, dynamic> json) {
     return Jogo(

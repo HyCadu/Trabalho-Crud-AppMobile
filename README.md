@@ -30,6 +30,7 @@ Este projeto é um aplicativo Flutter para controle de usuários (players) e jog
 ## Observações
 - A API pode demorar para responder caso esteja "adormecida" no Render.
 - Usuários com menos de 6 anos (nascidos após 31/12/2019) não podem ser cadastrados.
+- link apresentação canva: https://www.canva.com/design/DAGrdghjjkQ/hssHA-vFhWL9rWNHMABeWw/edit?utm_content=DAGrdghjjkQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
